@@ -173,3 +173,15 @@
     color: rgb(18, 138, 165);
     
 }
+
+
+/**shop section**/
+.shop-section{
+    display: flex;
+}
+
+.box {
+    height: 100px;
+    border: 2px solid black;
+    width: 15%;
+}
